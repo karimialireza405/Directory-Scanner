@@ -17,5 +17,6 @@ Install the required Python packages using pip:
 ```bash
 git clone https://github.com/karimialireza405/Directory-Scanner.git
 
-```bash
 pip install -r requirements.txt
+
+python3 Directory-Scanner.py

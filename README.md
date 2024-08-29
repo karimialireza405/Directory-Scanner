@@ -15,4 +15,7 @@ This project is an advanced directory scanner for websites, built in Python. It 
 Install the required Python packages using pip:
 
 ```bash
+git clone https://github.com/karimialireza405/Directory-Scanner.git
+
+```bash
 pip install -r requirements.txt

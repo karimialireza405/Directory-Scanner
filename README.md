@@ -24,4 +24,4 @@ git clone https://github.com/karimialireza405/Directory-Scanner.git
 
 pip install -r requirements.txt
 
-python3 directory-scanner.py
+python3 directory_scanner.py
